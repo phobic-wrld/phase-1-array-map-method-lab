@@ -15,8 +15,8 @@ describe('index.js', function () {
           "What Is The Difference Between == And ===?",
           "What Is The Difference Between Event Capturing And Bubbling?",
           "What Is JSONP?"
-      ]
+        ]
       )
-    });
+        });
   });
 });
